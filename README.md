@@ -50,3 +50,43 @@ Sales reps waste hours researching companies before meetings. This tool automate
 ## ⚙️ How To Run
 
 ### Step 1: Clone the repo
+### Step 2: Install dependencies
+### Step 3: Get a free Groq API key
+- Go to https://console.groq.com
+- Sign up for free
+- Create an API key
+
+### Step 4: Run the app
+### Step 5: Use the app
+- Enter your Groq API key in the sidebar
+- Fill in your product details
+- Enter the prospect company URL
+- Click Generate Account Insights
+
+---
+
+## 🧪 Test I Ran
+- **Product:** Salesforce CRM
+- **Prospect Company:** https://www.nike.com
+- **Competitor:** https://www.hubspot.com
+- **Target Contact:** Chief Sales Officer
+- **Result:** Successfully generated a complete 5-section intelligence report
+
+---
+
+## 📁 Project Structure
+---
+
+## 🔐 Security Note
+The Groq API key is entered by the user in the sidebar at runtime.
+It is never stored in the code or committed to GitHub.
+
+---
+
+## 💡 What I Learned
+- Building AI-powered applications with LLMs
+- Web scraping with BeautifulSoup
+- Prompt engineering for structured outputs
+- Building user interfaces with Streamlit
+- Managing API keys securely
+- Version control with Git and GitHub
