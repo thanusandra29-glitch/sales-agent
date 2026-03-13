@@ -1,6 +1,6 @@
 # 🤝 Sales Intelligence Agent
 ### Per Scholas AP 931 — Capstone Project
-**Student:** Bharath
+**Student:** Thanuja sandra
 **GitHub:** thanusandra29-glitch
 **Date:** March 2026
 
